@@ -1,0 +1,3 @@
+/home/spl211/Downloads/lab5/task2/cmake-build-debug/CMakeFiles/task2.dir
+/home/spl211/Downloads/lab5/task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/spl211/Downloads/lab5/task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
